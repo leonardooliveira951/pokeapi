@@ -11,6 +11,9 @@
     <pharConfigPath>$PROJECT_DIR$/composer.json</pharConfigPath>
     <execution />
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="PhpWorkspaceProjectConfiguration">
     <include_path>
       <path value="$PROJECT_DIR$/vendor/guzzlehttp/guzzle" />
@@ -119,6 +122,7 @@
     </include_path>
   </component>
   <component name="ProjectId" id="1lTi2M42Qvcq0PBYNyW5L3tb0Ar" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -155,11 +159,22 @@
       <workItem from="1607684735223" duration="15488000" />
       <workItem from="1607706038245" duration="13519000" />
       <workItem from="1607944571659" duration="23076000" />
-      <workItem from="1608030708778" duration="4655000" />
+      <workItem from="1608030708778" duration="5257000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
